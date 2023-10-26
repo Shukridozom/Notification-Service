@@ -16,10 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Content Update="demoproject-c60fa-firebase-adminsdk-tabze-8c1a724348.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
