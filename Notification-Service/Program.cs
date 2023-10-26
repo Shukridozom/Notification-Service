@@ -31,6 +31,8 @@ namespace Notification_Service
                     };
                 });
 
+            builder.Services.AddFCM_Service();
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
