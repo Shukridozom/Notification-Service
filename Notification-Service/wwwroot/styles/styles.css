@@ -1,0 +1,19 @@
+form{
+    padding: 2rem;
+}
+
+textarea{
+    resize: none;
+    height: 20vh;
+}
+
+.col-sm
+{
+    margin-bottom: 3rem;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+}
